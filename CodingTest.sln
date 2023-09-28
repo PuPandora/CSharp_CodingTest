@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alphabet Upper Lower Conver
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Even Odd Distinction", "Basic\Even Odd Distinction\Even Odd Distinction.csproj", "{EB842517-4699-4CAC-B0E1-7F073B7AA4D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Overwrite", "Basic\String Overwrite\String Overwrite.csproj", "{AA4BDEE6-8E26-4336-B68C-07D205B72189}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{EB842517-4699-4CAC-B0E1-7F073B7AA4D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB842517-4699-4CAC-B0E1-7F073B7AA4D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB842517-4699-4CAC-B0E1-7F073B7AA4D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA4BDEE6-8E26-4336-B68C-07D205B72189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA4BDEE6-8E26-4336-B68C-07D205B72189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA4BDEE6-8E26-4336-B68C-07D205B72189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA4BDEE6-8E26-4336-B68C-07D205B72189}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +36,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{A73E38F7-1713-4236-A858-975B943B1271} = {48F332A8-AA65-4906-A6B8-535A4F4DEEF2}
 		{EB842517-4699-4CAC-B0E1-7F073B7AA4D7} = {48F332A8-AA65-4906-A6B8-535A4F4DEEF2}
+		{AA4BDEE6-8E26-4336-B68C-07D205B72189} = {48F332A8-AA65-4906-A6B8-535A4F4DEEF2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DEA4EC12-BB37-41AA-B877-5A5F3661EFB6}
