@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Overwrite", "Basic\S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adding fractions", "Basic\Adding fractions\Adding fractions.csproj", "{18193C12-A863-4E8F-BD02-5A4EE3B315B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doubling Array", "Basic\Doubling Array\Doubling Array.csproj", "{A1A2FD40-5FFC-4C7F-A786-B98CFF688E01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{18193C12-A863-4E8F-BD02-5A4EE3B315B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18193C12-A863-4E8F-BD02-5A4EE3B315B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18193C12-A863-4E8F-BD02-5A4EE3B315B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1A2FD40-5FFC-4C7F-A786-B98CFF688E01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1A2FD40-5FFC-4C7F-A786-B98CFF688E01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1A2FD40-5FFC-4C7F-A786-B98CFF688E01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1A2FD40-5FFC-4C7F-A786-B98CFF688E01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
