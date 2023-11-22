@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HateOddNumber", "Basic\Hate
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pizza1", "Basic\Pizza1\Pizza1.csproj", "{9FB43C85-4ED1-422E-B8B4-F19E9928EAF8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pizza2", "Basic\Pizza2\Pizza2.csproj", "{1A818455-7CBA-42B8-9A0E-2F6F69E092C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -59,6 +61,10 @@ Global
 		{9FB43C85-4ED1-422E-B8B4-F19E9928EAF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FB43C85-4ED1-422E-B8B4-F19E9928EAF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FB43C85-4ED1-422E-B8B4-F19E9928EAF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A818455-7CBA-42B8-9A0E-2F6F69E092C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A818455-7CBA-42B8-9A0E-2F6F69E092C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A818455-7CBA-42B8-9A0E-2F6F69E092C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A818455-7CBA-42B8-9A0E-2F6F69E092C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -71,6 +77,7 @@ Global
 		{32CB3510-08D9-409C-810F-0273097311F2} = {48F332A8-AA65-4906-A6B8-535A4F4DEEF2}
 		{92FC1193-67C5-4238-BBFA-14CCD4D6D213} = {48F332A8-AA65-4906-A6B8-535A4F4DEEF2}
 		{9FB43C85-4ED1-422E-B8B4-F19E9928EAF8} = {48F332A8-AA65-4906-A6B8-535A4F4DEEF2}
+		{1A818455-7CBA-42B8-9A0E-2F6F69E092C1} = {48F332A8-AA65-4906-A6B8-535A4F4DEEF2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DEA4EC12-BB37-41AA-B877-5A5F3661EFB6}
